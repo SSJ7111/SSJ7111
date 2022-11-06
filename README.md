@@ -1,4 +1,6 @@
-I'm a React JS Developer.
+I'm a Developer & Designer.
+
+Frontend Developer | React JS Developer | Web Designer
 
 
 Technologies:
