@@ -1,4 +1,4 @@
-I'm a Developer & Designer.
+I'm a Developer & Designer. <br/>
 Frontend Developer | React JS Developer | Web Designer
 
 
