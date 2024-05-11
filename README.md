@@ -1,5 +1,5 @@
-I'm a Developer & Designer. <br/>
-Frontend Developer | React JS Developer | Web Designer
+I'm a Developer. <br/>
+Frontend Developer | React JS Developer
 
 
 Technologies:
